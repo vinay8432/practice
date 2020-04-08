@@ -1,5 +1,6 @@
 print("vinaysinghal")
 a = 24
 b = 34
-c = a+b
+d = 67
+c = a+b+d
 print(c)
